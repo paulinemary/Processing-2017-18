@@ -1,0 +1,25 @@
+void setup () {
+
+  size (300, 300);
+  background (0, 0, 0);
+}
+
+void draw () {
+
+  strokeWeight (3);
+  stroke (random(255), random (255), random (255));
+  for (int x = 20; x < 300; x += 20) {
+    for (int y = 20; y < 300; y += 20) {
+      line (x, 0, x+10, 300);
+    }
+
+    if (mousePressed) {
+      for (int z = 5; z < 300; z += 15) { 
+
+        line(2, z, 800, z+150);
+        strokeWeight (4);
+        stroke (random(255), random (255), random (255));
+      }
+    }
+  }
+}
