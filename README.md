@@ -1,6 +1,13 @@
 # Processing-2017-18
 Processing for Designers at FH Potsdam
 
+# Triangle
+
+![Triangle](Triangle_architects.png)
+
+This sketch is one of the first ones I made with processing. It reminds me a bit of a building and even if the code is very simple
+the effect is quite interesting. By clicking you can change the colour of the triangle.
+
 # Vertical Lines
 
 ![Vertical Lines](Lines_vertical.png)
