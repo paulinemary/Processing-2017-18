@@ -16,5 +16,10 @@ This was one of my first sketches during this class
 In this sketch random lines with different colours are drawn from a fixed center. The lines keep getting more and more and each time you open the sketch you get a different animation. 
 
 
+# Cube
 
+![Cube_code](Cube_colourful.png)
+
+This code is the work of Jan a guy from the class. I added some changes, so when you click the mouse the cube breaks open into
+different seperated pieces.
 
